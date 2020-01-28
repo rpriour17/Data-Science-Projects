@@ -6,8 +6,12 @@ This portfolio is a compilation of projects which I created for data analysis or
 
 ### 911 Data Visualization
 
-## Financial Analysis Projects
+### Financial Analysis Projects
 
-##Web Scraping Projects
+## Web Scraping Projects
+
+### Basic NBA Webscrape
+
+This project was my first introduction to web scraping, taking data from basketball-reference.com and turning it into a usable CSV file. 
 
 ## Machine Learning Projects
